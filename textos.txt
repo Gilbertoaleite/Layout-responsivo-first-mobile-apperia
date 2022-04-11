@@ -11,6 +11,8 @@ Contato
 
 --- CHAMADA ---
 
+comando para criar automatico: section>h1>p+a e enter
+
 Aplicativos Na Medida
 
 Apeperia tem um jeito inovador de comparar e montar aplicativos para pequenas e médias empresas.
