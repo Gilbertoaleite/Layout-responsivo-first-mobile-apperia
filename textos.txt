@@ -23,6 +23,11 @@ Conheça os planos
 
 Destaques
 
+section.destaques.container>h2.destaques__titulo+a>figure.destaques__painel>img.destaques__painel-imagem+figs.destaques__painel-texto
+section.destaques.container>h2.destaques__titulo+(a*>figure.
+      destaques__painel>img.destaques__painel-imagem+figc.
+      destaques__painel-texto+)a.destaques__botao
+
 alt: Painel do post sobre criação de logotipo
 Conheça as primeiras etapas para a criação de um logotipo
 
