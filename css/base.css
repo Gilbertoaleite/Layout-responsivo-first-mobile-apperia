@@ -20,9 +20,13 @@
 --montserrat: 'Montserrat', sans-serif;
 
 }
+*{
+   scroll-behavior: smooth;
+}
 
 body{
-   font-family: var(--montserrat)
+   font-family: var(--montserrat);
+   scroll-behavior: smooth;
 }
 
 .container{
