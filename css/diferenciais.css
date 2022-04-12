@@ -12,7 +12,8 @@
    max-width: 350px;
    box-sizing: border-box;
    background-repeat: no-repeat;
-   padding:2rem 0 2rem 5rem;
+   padding:1rem 3rem 2rem 2.5rem;
+   /* padding:2rem 0 2rem 5rem; */
 
 }
 .diferenciais__item--tempo{
@@ -42,5 +43,18 @@
 }
 .item__texto{
    line-height:normal;
+
+}
+
+/* resposivo desktop */
+
+@media screen and (min-width: 1024px){
+   .diferenciais{
+      background-color: var(--cinza-claro);
+   }
+
+   .diferenciais__lista{
+      justify-content: space-around;
+   }
 
 }
